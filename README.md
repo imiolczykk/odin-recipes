@@ -1,0 +1,1 @@
+First "Odin" project - I am going to use html skills that I have acquired so far.
